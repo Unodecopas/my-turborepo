@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.1](https://github.com/Unodecopas/my-turborepo/compare/@repo/ui@0.3.0...@repo/ui@0.3.1) (2024-11-25)
+
+### Bug Fixes
+
+- **ui:** change message button ([d7e5a57](https://github.com/Unodecopas/my-turborepo/commit/d7e5a57b6705eebd434e17b6f80d5d0927b89d48))
+
 # [0.3.0](https://github.com/Unodecopas/my-turborepo/compare/@repo/ui@0.2.0...@repo/ui@0.3.0) (2024-11-25)
 
 ### Bug Fixes
