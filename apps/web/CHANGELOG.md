@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.2](https://github.com/Unodecopas/my-turborepo/compare/web@0.4.1...web@0.4.2) (2024-11-25)
+
+### Bug Fixes
+
+- **web:** change ui version ([9cb1a79](https://github.com/Unodecopas/my-turborepo/commit/9cb1a791eaec67c2dd3dfbff0cea726cd3570cff))
+
 ## [0.4.1](https://github.com/Unodecopas/my-turborepo/compare/web@0.4.0...web@0.4.1) (2024-11-25)
 
 **Note:** Version bump only for package web
