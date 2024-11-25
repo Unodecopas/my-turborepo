@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/Unodecopas/my-turborepo/compare/@repo/ui@0.1.0...@repo/ui@0.2.0) (2024-11-25)
+
+### Features
+
+- **ui:** cambiado button ([f4fd3bf](https://github.com/Unodecopas/my-turborepo/commit/f4fd3bff5573cdf782ebedf7f1397cc9a704f016))
+
 # 0.1.0 (2024-11-25)
 
 ### Features
