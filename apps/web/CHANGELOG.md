@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/Unodecopas/my-turborepo/compare/web@0.3.0...web@0.4.0) (2024-11-25)
+
+### Features
+
+- **web:** asdasd ([8fae15a](https://github.com/Unodecopas/my-turborepo/commit/8fae15a8f3211d2d2d2bd5c6fdda5860ace2cc32))
+
 # [0.3.0](https://github.com/Unodecopas/my-turborepo/compare/web@0.2.1...web@0.3.0) (2024-11-25)
 
 ### Features
