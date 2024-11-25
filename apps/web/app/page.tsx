@@ -1,8 +1,8 @@
-import Image, { type ImageProps } from "next/image";
-import { Button } from "@repo/ui/button";
-import styles from "./page.module.css";
+import { Button } from '@repo/ui/button';
+import Image, { type ImageProps } from 'next/image';
+import styles from './page.module.css';
 
-type Props = Omit<ImageProps, "src"> & {
+type Props = Omit<ImageProps, 'src'> & {
   srcLight: string;
   srcDark: string;
 };
@@ -34,6 +34,7 @@ export default function Home() {
         <ol>
           <li>
             Get started by editing <code>apps/web/app/page.tsx</code>
+            <span>asdasdasd</span>
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>
